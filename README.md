@@ -1,5 +1,5 @@
-#Stamp and Flen Coffee Shop Sales Analysis (2019–2022)
-##Transforming Coffee Shop Transaction Data into Actionable Business Intelligence
+# Stamp and Flen Coffee Shop Sales Analysis (2019–2022)
+## Transforming Coffee Shop Transaction Data into Actionable Business Intelligence
 
 This repository presents a comprehensive sales performance analysis of Stamp and Flen Coffee Shop using historical transaction data spanning 2019–2022. Built entirely in Microsoft Excel with Power Query, the project follows an end-to-end business intelligence workflow, from data preparation and modeling to interactive dashboard development and strategic business recommendations.
 
