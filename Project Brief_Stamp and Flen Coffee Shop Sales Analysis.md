@@ -1,11 +1,11 @@
-# Project Brief: Stamp & Flen Coffee Shop Sales Analysis (2019–2022)
+# Project Brief: Stamp and Flen Coffee Shop Sales Analysis (2019–2022)
 ## Business Context
 
-Stamp & Flen Coffee Shop is a direct-to-consumer (D2C) coffee retailer specializing in premium coffee bean products. Following a noticeable decline in financial performance beginning in 2022, the business required a detailed assessment of its historical sales data to identify the key drivers of revenue and profitability, evaluate customer purchasing behavior, and determine opportunities for business growth. This project analyzes transactional, product, and customer data to uncover sales trends, product performance, regional demand, and customer loyalty patterns that can support informed business decisions.
+Stamp and Flen Coffee Shop is a direct-to-consumer (D2C) coffee retailer specializing in premium coffee bean products. Following a noticeable decline in financial performance beginning in 2022, the business required a detailed assessment of its historical sales data to identify the key drivers of revenue and profitability, evaluate customer purchasing behavior, and determine opportunities for business growth. This project analyzes transactional, product, and customer data to uncover sales trends, product performance, regional demand, and customer loyalty patterns that can support informed business decisions.
 
 ## Project Objective
 
-The objective of this analysis is to evaluate the sales performance of Stamp & Flen Coffee Shop between 2019 and 2022 and translate the findings into actionable recommendations for improving profitability and supporting sustainable business growth.
+The objective of this analysis is to evaluate the sales performance of Stamp and Flen Coffee Shop between 2019 and 2022 and translate the findings into actionable recommendations for improving profitability and supporting sustainable business growth.
 
 Specifically, the project seeks to:
 
